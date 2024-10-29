@@ -68,3 +68,7 @@ The script provides the following insights from the access logs:
     Mozilla/5.0 - 332 requests
     Custom-AsyncHttpClient - 294 requests
     Mozilla/5.0 - 282 requests
+
+## Project URL:
+
+This project is one of the many DevOps projects shared by [roadmap.sh](http://roadmap.sh "roadmap.sh"). You can visit this project from the following [URL](https://roadmap.sh/projects/nginx-log-analyser "URL"). 
